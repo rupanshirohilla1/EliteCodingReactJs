@@ -1,4 +1,4 @@
-You can check yhe live project on : https://elite-coding-react-js.vercel.app/
+You can check the live project on : https://elite-coding-react-js.vercel.app/
 
 
 # Getting Started with Create React App
